@@ -25,5 +25,6 @@
  ![image](https://user-images.githubusercontent.com/59960005/232288935-2f7b024f-d874-4b28-93e9-b6000ab995d3.png) 
 
  # 另外：可关注博主公众号，体验微信小程序ChatGPT并领取全套ChatGPT资料和前端资料！！！！
- 
-![gh_b8eb766a6a05_258](https://user-images.githubusercontent.com/59960005/232289195-8af46b70-e9b0-4538-b7ef-79417a289253.jpg)
+ ![微信图片_20230416172348](https://user-images.githubusercontent.com/59960005/232289480-f843ae77-d3f0-47b0-9513-bfda237c4d05.jpg)
+
+
