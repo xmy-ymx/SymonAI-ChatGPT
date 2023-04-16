@@ -1,0 +1,165 @@
+
+.page.data-v-0a633310 {
+  position: relative;
+  height: 100vh;
+}
+.defbut.data-v-0a633310 {
+  position: fixed;
+  right: 2px;
+  bottom: 152px;
+}
+.btn-send.data-v-0a633310 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 32px;
+  border-radius: 6px;
+  color: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.1);
+}
+.btn-send.data-v-0a633310:hover {
+  cursor: pointer;
+  opacity: 0.85;
+}
+.text.data-v-0a633310 {
+  position: absolute;
+  top: 50px;
+  border: 1px solid #e5e5e5;
+  height: 60px;
+  padding: 10px;
+  width: 90%;
+}
+#myList.data-v-0a633310 {
+  max-width: 1000px;
+  margin: 0 auto;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.problemList.data-v-0a633310 {
+  display: flex;
+  padding: 0px 200px;
+}
+.answerList.data-v-0a633310 {
+  position: relative;
+  padding: 20px 18px;
+  font-size: 15px;
+  display: flex;
+  overflow-x: auto;
+  white-space: pre-wrap;
+  border-top: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5;
+}
+.listimage.data-v-0a633310 {
+  margin-top: 5px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.listText.data-v-0a633310 {
+  margin-left: 20px;
+  padding-top: 10px;
+  width: 100%;
+  white-space: pre-wrap;
+}
+.inputbox.data-v-0a633310 {
+	height: 45px;
+  position: fixed;
+  bottom: 60px;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  padding-right: 12px;
+  background: #fff;
+  border-radius: 8px;
+}
+.inputbox input.data-v-0a633310 {
+  flex-grow: 1;
+  height: 44px;
+  max-height: 100px;
+  border: 0;
+  outline: none;
+  padding: 12px 15px;
+  background: transparent;
+  font-size: 16px;
+  width: 100%;
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.7);
+}
+.inputbox button.data-v-0a633310 {
+  margin-left: 15px;
+  width: 56px;
+  height: 82%;
+  border-radius: 6px;
+  border: 0;
+  background: silver;
+  color: #333;
+  font-size: 14px;
+  outline: none;
+}
+.inputbox button.data-v-0a633310:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+.addin.data-v-0a633310 {
+  margin: 10px 20px;
+  width: 30px;
+  height: 30px;
+}
+.steppingstone.data-v-0a633310 {
+  width: 100%;
+  height: 160px;
+}
+.begintitle.data-v-0a633310 {
+  width: 100%;
+  /* padding: 50px 50px 30px 50px; */
+}
+.begintitle h1.data-v-0a633310 {
+  padding: 50px;
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+}
+.exhibition.data-v-0a633310 {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+}
+.witem p.data-v-0a633310 {
+  margin: auto;
+  padding: 10px;
+  margin-top: 15px;
+  font-size: 16px;
+  border-radius: 5px;
+  text-align: center;
+}
+.witem h3.data-v-0a633310 {
+  padding: 15px;
+  font-size: 20px;
+  color: #606266;
+  text-align: center;
+}
+textarea.data-v-0a633310 {
+  border: none;
+  resize: none;
+  cursor: pointer;
+  outline: none;
+  overflow-y: hidden;
+}
+@media screen and (max-width: 600px) {
+.text.data-v-0a633310 {
+    position: absolute;
+    top: 30px;
+    border: 1px solid #e5e5e5;
+    height: 45px;
+    padding: 10px;
+    width: 80%;
+}
+}
