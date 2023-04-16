@@ -1,6 +1,7 @@
 # SymonAI-ChatGPT
-如何开发属于自己的 chatGPT ？ 参考 1、[三分钟拥有自己的 ChatGPT (从开发到上线)](https://mp.weixin.qq.com/s/XsQoeetQz_tPEfkBYKtNGg)
-                                <br> 2、https://mp.weixin.qq.com/s/Whl0EUH_zFbUqog2J0CcYA
+如何开发属于自己的 chatGPT ？  <br>
+参考   <br>
+1、[三分钟拥有自己的 ChatGPT (从开发到上线)](https://mp.weixin.qq.com/s/XsQoeetQz_tPEfkBYKtNGg) <br> 2、https://mp.weixin.qq.com/s/Whl0EUH_zFbUqog2J0CcYA
 
  ![image](https://user-images.githubusercontent.com/59960005/232288289-d407b6bb-9725-4134-80f4-3cb5e166e95d.png)
 
@@ -25,3 +26,5 @@
  ![image](https://user-images.githubusercontent.com/59960005/232288935-2f7b024f-d874-4b28-93e9-b6000ab995d3.png) 
 
  # 另外：可关注博主公众号，体验微信小程序ChatGPT并领取全套ChatGPT资料和前端资料！！！！
+ 
+![gh_b8eb766a6a05_258](https://user-images.githubusercontent.com/59960005/232289195-8af46b70-e9b0-4538-b7ef-79417a289253.jpg)
