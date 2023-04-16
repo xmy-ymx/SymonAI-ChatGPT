@@ -1,2 +1,2 @@
 # SymonAI-ChatGPT
-![image](https://user-images.githubusercontent.com/59960005/232288092-d26d6775-48f6-48fd-864c-ca55e70bc912.png)
+如何开发属于自己的 chatGPT ？ 参考 三分钟拥有自己的 ChatGPT (从开发到上线)
