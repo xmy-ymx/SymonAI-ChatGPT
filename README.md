@@ -2,10 +2,12 @@
 如何开发属于自己的 chatGPT ？ 参考:   <br>
 1、[三分钟拥有自己的 ChatGPT (从开发到上线)](https://mp.weixin.qq.com/s/XsQoeetQz_tPEfkBYKtNGg) <br> 2、https://mp.weixin.qq.com/s/Whl0EUH_zFbUqog2J0CcYA
 
+# 成品展示：
+https://wgz2xs-symon-ai.site.laf.run/
+
  ![image](https://user-images.githubusercontent.com/59960005/232288289-d407b6bb-9725-4134-80f4-3cb5e166e95d.png)
 
-#成品展示：
-https://wgz2xs-symon-ai.site.laf.run/
+
 
 # 下载文件1，可以在微信小程序开发者工具或者HBuilder X里面直接跑起来，适用于小程序和H5
   
