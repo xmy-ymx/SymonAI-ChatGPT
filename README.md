@@ -4,7 +4,10 @@
 
  ![image](https://user-images.githubusercontent.com/59960005/232288289-d407b6bb-9725-4134-80f4-3cb5e166e95d.png)
 
- # 下载文件1，可以在微信小程序开发者工具或者HBuilder X里面直接跑起来，适用于小程序和H5
+#成品展示：
+https://wgz2xs-symon-ai.site.laf.run/
+
+# 下载文件1，可以在微信小程序开发者工具或者HBuilder X里面直接跑起来，适用于小程序和H5
   
   ![image](https://user-images.githubusercontent.com/59960005/232288455-ebc60cd0-7eb8-4ffe-9f71-ac1a180c847e.png)
   
