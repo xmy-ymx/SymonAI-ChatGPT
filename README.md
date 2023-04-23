@@ -24,9 +24,9 @@
   ![image](https://user-images.githubusercontent.com/59960005/232288519-dfafaa78-ed26-4956-a461-3699436807de.png)
   
   
-  如果有任何问题，欢迎联系博主咨询
+  如果有任何问题，欢迎进群交流分享
   
- ![image](https://user-images.githubusercontent.com/59960005/232288935-2f7b024f-d874-4b28-93e9-b6000ab995d3.png) 
+  ![IMG_9250(20230423-001547)](https://user-images.githubusercontent.com/59960005/233817505-8b32c7f9-7360-440f-b938-ae15ddf821c2.JPG)
 
  # 另外：可关注博主公众号，体验微信小程序ChatGPT并领取全套ChatGPT资料和前端资料！！！！
  ![微信图片_20230416172348](https://user-images.githubusercontent.com/59960005/232289480-f843ae77-d3f0-47b0-9513-bfda237c4d05.jpg)
