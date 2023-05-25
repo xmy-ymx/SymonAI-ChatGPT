@@ -26,7 +26,7 @@
   
   如果有任何问题，欢迎进群交流分享
   
-  ![IMG_9250(20230423-001547)](https://user-images.githubusercontent.com/59960005/233817505-8b32c7f9-7360-440f-b938-ae15ddf821c2.JPG)
+![微信图片_20230426152631](https://github.com/xmy-ymx/SymonAI-ChatGPT/assets/59960005/dc1d91c1-5ee8-4793-9190-acabd074961c)
 
  # 另外：可关注博主公众号，体验微信小程序ChatGPT并领取全套ChatGPT资料和前端资料！！！！
  ![微信图片_20230416172348](https://user-images.githubusercontent.com/59960005/232289480-f843ae77-d3f0-47b0-9513-bfda237c4d05.jpg)
